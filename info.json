@@ -1,0 +1,12 @@
+{
+  "name": "WePlayLightningRodEquipment",
+  "version": "0.0.2",
+  "title": "WePlay: Lightning Rod Equipment",
+  "author": "WePlay",
+  "factorio_version": "2.1",
+  "description": "Personal equipment that attracts lightning on Fulgora and charges the batteries in your equipment grid.",
+  "dependencies": [
+    "base",
+    "space-age"
+  ]
+}

@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2026. 10. 31
+  Features:
+    - Adjust recipe and technology unlock to discovery of planet Fulgora. Uses batteries instead of supercapacitors now.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2026. 10. 31
+  Features:
+    - Lightning rod equipment for Fulgora.
